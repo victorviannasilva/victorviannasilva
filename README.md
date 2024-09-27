@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victorviannasilva
-- 👀 I’m interested in sofwater development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love basketball!
